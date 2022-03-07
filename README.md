@@ -1,4 +1,3 @@
-# helmet-bike-detection
 ## inference
 
 ```python
